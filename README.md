@@ -1,6 +1,6 @@
 ![header](./assets/header.png)
 
-<h1 align="center">嗨👋，我是 dong4j <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+<h1 align="center">Hi there 👋，I'm dong4j <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 <h3 align="center"></h3>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
