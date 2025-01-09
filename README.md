@@ -30,7 +30,7 @@ npx dong4j
 
 Hi, I'm dong4j, a Full Stack Developer 🚀 from China. Currently becoming an independent developer. Beside's programming, I also like motorcycles, traveling, and cats.
 
-<img align="left" alt="GIF" width="40%" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<!-- <img align="left" alt="GIF" width="40%" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
 
 
 - 🧐 Interested in everything Cloud Native and AI
@@ -38,12 +38,6 @@ Hi, I'm dong4j, a Full Stack Developer 🚀 from China. Currently becoming an in
 - 📚 Reading about Cloud Native, Kubernetes, and DevOps
 - ❤️ Open Source Software
 - 🐧 Linux ... it does infinite loops in 5 seconds..
-
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ```javascript
 const dong4j = {
