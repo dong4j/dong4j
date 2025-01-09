@@ -23,5 +23,5 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_PROFILE_VIEWS: "True"
           SHOW_COMMIT: "True"
-          LOCALE: "zh"
+          LOCALE: "en"
 
