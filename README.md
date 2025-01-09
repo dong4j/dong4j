@@ -171,11 +171,11 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 
 <!-- BLOG-POST-LIST:START -->
 - [github-homepage-build](https://dong4j.github.io/posts/debd/)
-- [github-homepage-build](https://dong4j.github.io/posts/debd/)
+- [SSL 证书管理](https://dong4j.github.io/posts/702c/)
 - [利用 AI 对博客文章进行智能分类](https://dong4j.github.io/posts/7e89/)
 - [AI助力博客创作：自动生成摘要与标签的实战指南](https://dong4j.github.io/posts/5f5/)
 - [Hexo博客部署与图片处理全攻略：自动化流程大揭秘](https://dong4j.github.io/posts/598d/)
-- [群晖 NAS Docker 网络优化：配置 HTTP/SOCKS5 代理的终极指南](https://dong4j.github.io/posts/394d/)
+- [图片过多导致GitHub/Gitee仓库爆仓？这里有解决方案！](https://dong4j.github.io/posts/b051/)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
