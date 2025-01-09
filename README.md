@@ -26,11 +26,11 @@ npx dong4j
 **👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me...
 
 Hi, I'm dong4j, a Full Stack Developer 🚀 from China. Currently becoming an independent developer. Beside's programming, I also like motorcycles, traveling, and cats.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="left" alt="GIF" width="40%" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 
 - 🧐 Interested in everything Cloud Native and AI
@@ -39,9 +39,6 @@ Hi, I'm dong4j, a Full Stack Developer 🚀 from China. Currently becoming an in
 - ❤️ Open Source Software
 - 🐧 Linux ... it does infinite loops in 5 seconds..
 
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -174,7 +171,7 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <img alt="github-snake" src="./dist/github-snake.svg" />
 </picture>
 
 ### Blog posts

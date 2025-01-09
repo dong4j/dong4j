@@ -26,11 +26,11 @@ npx dong4j
 **👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me...
 
 Hi, I'm dong4j, a Full Stack Developer 🚀 from China. Currently becoming an independent developer. Beside's programming, I also like motorcycles, traveling, and cats.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="left" alt="GIF" width="40%" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 
 - 🧐 Interested in everything Cloud Native and AI
@@ -88,7 +88,7 @@ const dong4j = {
 ```
 
 <br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
 
