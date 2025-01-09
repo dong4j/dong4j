@@ -8,6 +8,10 @@
 ### 博客帖子
 
 <!-- BLOG-POST-LIST:START -->
+- [github-homepage-build](https://dong4j.github.io/posts/debd/)
+- [github-homepage-build](https://dong4j.github.io/posts/debd/)
+- [利用 AI 对博客文章进行智能分类](https://dong4j.github.io/posts/7e89/)
+- [AI助力博客创作：自动生成摘要与标签的实战指南](https://dong4j.github.io/posts/5f5/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Contact me: </h3>
