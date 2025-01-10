@@ -178,12 +178,12 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [github-homepage-build](https://blog.dong4j.site/posts/debd/)
-- [github-homepage-build](https://blog.dong4j.site/posts/debd/)
-- [利用 AI 对博客文章进行智能分类](https://blog.dong4j.site/posts/7e89/)
-- [AI助力博客创作：自动生成摘要与标签的实战指南](https://blog.dong4j.site/posts/5f5/)
-- [Hexo博客部署与图片处理全攻略：自动化流程大揭秘](https://blog.dong4j.site/posts/598d/)
-- [群晖 NAS Docker 网络优化：配置 HTTP/SOCKS5 代理的终极指南](https://blog.dong4j.site/posts/394d/)
+- [SSL 证书管理](https://blog.dong4j.site/posts/702c/)
+- [为 Hexo 博客添加 AI 聊天机器人](https://blog.dong4j.site/posts/a470/)
+- [Hexo Plugin 推荐](https://blog.dong4j.site/posts/fb06/)
+- [hexo-theme-aurora 图片居中处理](https://blog.dong4j.site/posts/27b7/)
+- [自动部署 HTTPS 指南](https://blog.dong4j.site/posts/47f3/)
+- [看沈剑关于老一辈架构师的视频被喷的问题](https://blog.dong4j.site/posts/e8d4/)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
