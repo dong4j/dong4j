@@ -23,8 +23,8 @@
 ```bash
 npx dong4j
 ```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
 
+**👆 This command line tool can be found at [npx dong4j](https://github.com/dong4j/npx-card)**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me...
 
