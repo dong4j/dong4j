@@ -178,12 +178,12 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [从零开始开发 VSCode 插件：从 Hello World 到图片处理工具](https://blog.dong4j.site/posts/da91/)
 - [Chrome 插件开发实战：从零开始开发一个图片上传工具](https://blog.dong4j.site/posts/bdfa/)
 - [利用 AI 对博客文章进行智能分类](https://blog.dong4j.site/posts/7e89/)
 - [AI助力博客创作：自动生成摘要与标签的实战指南](https://blog.dong4j.site/posts/5f5/)
 - [Hexo博客部署与图片处理全攻略：自动化流程大揭秘](https://blog.dong4j.site/posts/598d/)
 - [群晖 NAS Docker 网络优化：配置 HTTP/SOCKS5 代理的终极指南](https://blog.dong4j.site/posts/394d/)
-- [图片过多导致GitHub/Gitee仓库爆仓？这里有解决方案！](https://blog.dong4j.site/posts/b051/)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
