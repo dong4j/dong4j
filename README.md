@@ -155,12 +155,9 @@ Stylus                   1 repo              ░░░░░░░░░░░�
 Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 
-
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/dong4j/dong4j/main/assets/bar_graph.png)
-
 
  Last Updated on 16/01/2025 10:40:06 UTC
 <!--END_SECTION:waka-->
