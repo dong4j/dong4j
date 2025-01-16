@@ -21,6 +21,9 @@ jobs:
     timeout-minutes: 5
     
     steps:
+      # 检出代码仓库
+      - name: Checkout repository
+        uses: actions/checkout@v3
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
@@ -29,12 +32,25 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: snake
-          build_dir: dist
+      # 将文件复制到 main 分支的 dist 目录
+      - name: Commit and push generated files
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          # 切换到 main 分支
+          git fetch origin main
+          git switch main
+          
+          # 创建 dist 目录（如果不存在）
+          mkdir -p dist
+          
+          # 移动生成的文件到 dist 目录
+          cp dist/ dist/
+          
+          # 提交更改
+          git add dist/
+          git commit -m "Update Snake Game (generated on $(date +'%Y-%m-%d'))" || echo "No changes to commit"
+
+          # 推送到 main 分支
+          git push origin main
+     
