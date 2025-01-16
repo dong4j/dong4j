@@ -37,15 +37,9 @@ jobs:
         env:
           TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          # 切换到 main 分支
+          # 确保在 main 分支
           git fetch origin main
-          git switch main
-          
-          # 创建 dist 目录（如果不存在）
-          mkdir -p dist
-          
-          # 移动生成的文件到 dist 目录
-          cp dist/ dist/
+          git switch -C main
           
           # 提交更改
           git add dist/

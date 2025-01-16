@@ -6,6 +6,7 @@ on:
   schedule:
     # Runs at 00:00AM UTC
     - cron: '0 0 * * *'
+  # push: { branches: ['master', 'main'] }
 
 jobs:
   update-readme:
