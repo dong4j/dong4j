@@ -159,12 +159,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 ![Lines of Code chart](https://raw.githubusercontent.com/dong4j/dong4j/main/assets/bar_graph.png)
 
-<<<<<<< HEAD
- Last Updated on 16/01/2025 10:40:06 UTC
-=======
-
  Last Updated on 16/01/2025 10:53:08 UTC
->>>>>>> 866694ef79d905b2bf49f331074c7622ac1afef4
 <!--END_SECTION:waka-->
 
 > **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
@@ -172,8 +167,8 @@ Python                   1 repo              ░░░░░░░░░░░�
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="./dist/github-contribution-grid-snake.svg" />
 </picture>
 
