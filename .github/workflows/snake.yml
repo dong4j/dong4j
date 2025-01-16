@@ -37,10 +37,6 @@ jobs:
         env:
           TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          # 确保在 main 分支
-          git fetch origin main
-          git switch -C main
-          
           # 提交更改
           git add dist/
           git commit -m "Update Snake Game (generated on $(date +'%Y-%m-%d'))" || echo "No changes to commit"
