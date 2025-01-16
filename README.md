@@ -26,6 +26,12 @@ npx dong4j
 
 **👆 This command line tool can be found at [npx dong4j](https://github.com/dong4j/npx-card)**
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="./dist/github-contribution-grid-snake.svg" />
+</picture>
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me...
 
 Hi, I'm dong4j, a Full Stack Developer 🚀 from China. Currently becoming an independent developer. Beside's programming, I also like motorcycles, traveling, and cats.
@@ -165,12 +171,6 @@ Python                   1 repo              ░░░░░░░░░░░�
 > **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="./dist/github-contribution-grid-snake.svg" />
-</picture>
 
 ### Blog posts
 
