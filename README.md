@@ -21,7 +21,7 @@
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
-npx dong4j
+npx dong4j --no
 ```
 
 **👆 This command line tool can be found at [npx dong4j](https://github.com/dong4j/npx-card)**
