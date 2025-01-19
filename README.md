@@ -101,7 +101,7 @@ const dong4j = {
 
 
 <details>
-  <summary><b>〽️&nbsp;&nbsp;WakaTime&nbsp;Stats</b></summary>
+  <summary><b>⏳&nbsp;&nbsp;WakaTime&nbsp;Stats</b></summary>
   <br/>
 
 <!--START_SECTION:waka-->
