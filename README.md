@@ -88,6 +88,22 @@ const dong4j = {
 
 ---
 
+### Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+- [使用 Node.js 开发数字名片并集成 Chat 服务](https://blog.dong4j.site/posts/bb4018e9/)
+- [从零开始开发 VSCode 插件：从 Hello World 到图片处理工具](https://blog.dong4j.site/posts/621bb677/)
+- [Chrome 插件开发实战：从零开始开发一个图片上传工具](https://blog.dong4j.site/posts/af11d9f5/)
+- [利用 AI 对博客文章进行智能分类](https://blog.dong4j.site/posts/f5478013/)
+- [AI助力博客创作：自动生成摘要与标签的实战指南](https://blog.dong4j.site/posts/87c223f/)
+- [Hexo博客部署与图片处理全攻略：自动化流程大揭秘](https://blog.dong4j.site/posts/461c6733/)
+<!-- BLOG-POST-LIST:END -->
+
+
+<details>
+  <summary><b>〽️&nbsp;&nbsp;WakaTime&nbsp;Stats</b></summary>
+  <br/>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-342%20hrs%2010%20mins-blue)
 
@@ -161,12 +177,9 @@ CSS                      3 repos             █░░░░░░░░░░�
 Stylus                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 
-
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/dong4j/dong4j/main/assets/bar_graph.png)
-
 
  Last Updated on 19/01/2025 01:32:16 UTC
 <!--END_SECTION:waka-->
@@ -175,16 +188,7 @@ Stylus                   1 repo              ░░░░░░░░░░░�
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 
-### Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [使用 Node.js 开发数字名片并集成 Chat 服务](https://blog.dong4j.site/posts/bb4018e9/)
-- [从零开始开发 VSCode 插件：从 Hello World 到图片处理工具](https://blog.dong4j.site/posts/621bb677/)
-- [Chrome 插件开发实战：从零开始开发一个图片上传工具](https://blog.dong4j.site/posts/af11d9f5/)
-- [利用 AI 对博客文章进行智能分类](https://blog.dong4j.site/posts/f5478013/)
-- [AI助力博客创作：自动生成摘要与标签的实战指南](https://blog.dong4j.site/posts/87c223f/)
-- [Hexo博客部署与图片处理全攻略：自动化流程大揭秘](https://blog.dong4j.site/posts/461c6733/)
-<!-- BLOG-POST-LIST:END -->
+</details>
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
