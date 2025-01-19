@@ -238,9 +238,23 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 <details>
   <summary><b>〽️&nbsp;&nbsp;Some&nbsp;Stats</b></summary>
   <br/>
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=dong4j&show_icons=true&locale=en" alt="dong4j" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dong4j&show_icons=true&locale=en" alt="dong4j" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dong4j&show_icons=true&locale=en&layout=compact" alt="dong4j" /></p> -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dong4j&show_icons=true&locale=en&layout=compact" alt="dong4j" /></p>
+<!-- from https://github.com/songquanpeng -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=dong4j&show_icons=true&hide_border=true" alt="dong4j's Github Stats" width="58%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dong4j&layout=compact&hide_border=true&langs_count=10" alt="dong4j's Top Langs" width="37%" /> 
+</p>
+
+<!-- <a href="https://github.com/songquanpeng/stats-cards">
+<p>
+  <img src="https://stats.justsong.cn/api/leetcode/?username=quanpeng&theme=light" alt="JustSong's LeetCode Stats" width="49%" />
+  <img src="https://stats.justsong.cn/api/zhihu/?username=songwonderful&theme=light" alt="JustSong's Zhihu Stats" width="49%" /> 
+</p>
+</a> -->
+
+<!-- ![skills](https://skillicons.dev/icons?i=c,cpp,go,py,html,css,js,nodejs,java,md,pytorch,tensorflow,flask,fastapi,express,qt,react,cmake,docker,git,linux,nginx,mysql,redis,sqlite,githubactions,heroku,vercel,visualstudio,vscode) -->
 
 </details>
 
