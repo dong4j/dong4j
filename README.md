@@ -191,6 +191,38 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 </details>
 
 <details>
+  <summary><b>〽️&nbsp;&nbsp;GitHub&nbsp;Stats</b></summary>
+  <br/>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dong4j&show_icons=true&locale=en" alt="dong4j" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dong4j&show_icons=true&locale=en&layout=compact" alt="dong4j" /></p> -->
+
+<!-- from https://github.com/songquanpeng -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=dong4j&show_icons=true&hide_border=true" alt="dong4j's Github Stats" width="58%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dong4j&layout=compact&hide_border=true&langs_count=10" alt="dong4j's Top Langs" width="37%" /> 
+</p>
+
+<!-- <a href="https://github.com/songquanpeng/stats-cards">
+<p>
+  <img src="https://stats.justsong.cn/api/leetcode/?username=quanpeng&theme=light" alt="JustSong's LeetCode Stats" width="49%" />
+  <img src="https://stats.justsong.cn/api/zhihu/?username=songwonderful&theme=light" alt="JustSong's Zhihu Stats" width="49%" /> 
+</p>
+</a> -->
+
+<!-- ![skills](https://skillicons.dev/icons?i=c,cpp,go,py,html,css,js,nodejs,java,md,pytorch,tensorflow,flask,fastapi,express,qt,react,cmake,docker,git,linux,nginx,mysql,redis,sqlite,githubactions,heroku,vercel,visualstudio,vscode) -->
+
+</details>
+
+<!-- <details> -->
+  <!-- <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary> -->
+  <!-- <br/> -->
+  <!-- <a href='https://profile.codersrank.io/user/dong4j/'> -->
+  <!-- https://github.com/codersrank-org/skills-chart-widget -->
+  <!-- <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dong4j&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'> -->
+  <!-- </a> -->
+<!-- </details> -->
+
+<details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
   <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"></code>
@@ -238,38 +270,6 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
   <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"></code>
   <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"></code>
 </details>
-
-<details>
-  <summary><b>〽️&nbsp;&nbsp;Some&nbsp;Stats</b></summary>
-  <br/>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dong4j&show_icons=true&locale=en" alt="dong4j" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dong4j&show_icons=true&locale=en&layout=compact" alt="dong4j" /></p> -->
-
-<!-- from https://github.com/songquanpeng -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dong4j&show_icons=true&hide_border=true" alt="dong4j's Github Stats" width="58%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dong4j&layout=compact&hide_border=true&langs_count=10" alt="dong4j's Top Langs" width="37%" /> 
-</p>
-
-<!-- <a href="https://github.com/songquanpeng/stats-cards">
-<p>
-  <img src="https://stats.justsong.cn/api/leetcode/?username=quanpeng&theme=light" alt="JustSong's LeetCode Stats" width="49%" />
-  <img src="https://stats.justsong.cn/api/zhihu/?username=songwonderful&theme=light" alt="JustSong's Zhihu Stats" width="49%" /> 
-</p>
-</a> -->
-
-<!-- ![skills](https://skillicons.dev/icons?i=c,cpp,go,py,html,css,js,nodejs,java,md,pytorch,tensorflow,flask,fastapi,express,qt,react,cmake,docker,git,linux,nginx,mysql,redis,sqlite,githubactions,heroku,vercel,visualstudio,vscode) -->
-
-</details>
-
-<!-- <details> -->
-  <!-- <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary> -->
-  <!-- <br/> -->
-  <!-- <a href='https://profile.codersrank.io/user/dong4j/'> -->
-  <!-- https://github.com/codersrank-org/skills-chart-widget -->
-  <!-- <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dong4j&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'> -->
-  <!-- </a> -->
-<!-- </details> -->
 
 <br>
 <br>
