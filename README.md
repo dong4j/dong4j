@@ -24,7 +24,7 @@
 npx dong4j --no
 ```
 
-**👆 This command line tool can be found at [npx dong4j](https://github.com/dong4j/npx-card)**
+**👆 This command line tool can be found at [npx-card](https://github.com/dong4j/npx-card)**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
