@@ -11,7 +11,7 @@
 <h3 align="left">Contact me: </h3>
 
 [![Twitter Badge](https://img.shields.io/badge/@dong4j-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dong4j)](https://twitter.com/dong4j)
-[![Blog Badge](https://img.shields.io/badge/github.dong4j.com-FF4088?style=flat&labelColor=FF4088&logo=Hugo&logoColor=white&link=https://github.dong4j.com/)](https://github.dong4j.com/)
+[![Blog Badge](https://img.shields.io/badge/blog.dong4j.site-FF4088?style=flat&labelColor=FF4088&logo=Hugo&logoColor=white&link=https://blog.dong4j.site/)](https://blog.dong4j.site/)
 [![Gmail Badge](https://img.shields.io/badge/dong4j's@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dong4j@gmail.com)](mailto:dong4j@gmail.com)
 [![RSS](https://img.shields.io/badge/RSS-bule?style=flat&logo=rss&logoColor=red&link=https%3A%2F%2Fdong4j.github.io%2Frss2.xml)](https://dong4j.github.io/rss2.xml)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dong4j)
