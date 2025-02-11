@@ -91,12 +91,12 @@ const dong4j = {
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [重用 Tesla P40 显卡：家庭实验室的升级与优化](https://blog.dong4j.site/posts/ded15d16.html)
+- [探索在线封面生成工具：打造专属博客封面的捷径](https://blog.dong4j.site/posts/cd1cca40.html)
 - [从零开始开发一个 Hexo 插件：以 hexo-plugin-llmstxt 为例](https://blog.dong4j.site/posts/b902d8fd.html)
+- [Lazydocker：终端中的懒人 Docker 管理神器](https://blog.dong4j.site/posts/edfbbdc9.html)
+- [哪吒面板配置指南：自托管与安全防控详解](https://blog.dong4j.site/posts/adc3ac9e.html)
 - [自建服务：使用 AI 生成文章摘要并使用 Kokoro TTS 生成语音播报](https://blog.dong4j.site/posts/66ccb3f1.html)
-- [使用 Node.js 开发数字名片并集成 Chat 服务](https://blog.dong4j.site/posts/bb4018e9.html)
-- [从零开始开发 VSCode 插件：从 Hello World 到图片处理工具](https://blog.dong4j.site/posts/621bb677.html)
-- [Chrome 插件开发实战：从零开始开发一个图片上传工具](https://blog.dong4j.site/posts/af11d9f5.html)
-- [利用 AI 对博客文章进行智能分类](https://blog.dong4j.site/posts/f5478013.html)
 <!-- BLOG-POST-LIST:END -->
 
 
