@@ -91,12 +91,12 @@ const dong4j = {
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hexo 部署利器：GitHub Actions 实现自动化发布](https://blog.dong4j.site/posts/a754e8c8.html)
 - [重用 Tesla P40 显卡：家庭实验室的升级与优化](https://blog.dong4j.site/posts/ded15d16.html)
 - [探索在线封面生成工具：打造专属博客封面的捷径](https://blog.dong4j.site/posts/cd1cca40.html)
 - [从零开始开发一个 Hexo 插件：以 hexo-plugin-llmstxt 为例](https://blog.dong4j.site/posts/b902d8fd.html)
 - [Lazydocker：终端中的懒人 Docker 管理神器](https://blog.dong4j.site/posts/edfbbdc9.html)
 - [哪吒面板配置指南：自托管与安全防控详解](https://blog.dong4j.site/posts/adc3ac9e.html)
-- [自建服务：使用 AI 生成文章摘要并使用 Kokoro TTS 生成语音播报](https://blog.dong4j.site/posts/66ccb3f1.html)
 <!-- BLOG-POST-LIST:END -->
 
 
