@@ -91,12 +91,12 @@ const dong4j = {
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu 系统下 LCD4Linux 的安装与配置指南](https://blog.dong4j.site/posts/b0f649a0.html)
 - [树莓派与移远EC20 4G网卡集成及自动拨号方案解析](https://blog.dong4j.site/posts/c78c58c7.html)
 - [使用 TTL 连接到树莓派 Zero 2W 的详细指南](https://blog.dong4j.site/posts/b13a9376.html)
 - [Hexo 部署利器：GitHub Actions 实现自动化发布](https://blog.dong4j.site/posts/a754e8c8.html)
 - [重用 Tesla P40 显卡：家庭实验室的升级与优化](https://blog.dong4j.site/posts/ded15d16.html)
 - [探索在线封面生成工具：打造专属博客封面的捷径](https://blog.dong4j.site/posts/cd1cca40.html)
-- [从零开始开发一个 Hexo 插件：以 hexo-plugin-llmstxt 为例](https://blog.dong4j.site/posts/b902d8fd.html)
 <!-- BLOG-POST-LIST:END -->
 
 
