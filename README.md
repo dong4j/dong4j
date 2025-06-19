@@ -91,12 +91,12 @@ const dong4j = {
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Proxmox VE 8.3 安装与配置指南](https://blog.dong4j.site/posts/13e613ba.html)
-- [Ubuntu 使用备忘录：好记性不如烂笔头](https://blog.dong4j.site/posts/91f73d3b.html)
-- [使用 Cloudflare 增强公网服务安全性的实践](https://blog.dong4j.site/posts/5fa20a9e.html)
-- [Ubuntu 系统下 LCD4Linux 的安装与配置指南](https://blog.dong4j.site/posts/b0f649a0.html)
-- [树莓派与移远EC20 4G网卡集成及自动拨号方案解析](https://blog.dong4j.site/posts/c78c58c7.html)
-- [使用 TTL 连接到树莓派 Zero 2W 的详细指南](https://blog.dong4j.site/posts/b13a9376.html)
+- [🧩 如何用多层 parent 管理 Maven 项目依赖](https://blog.dong4j.site/posts/31a4f5f8.html)
+- [🧨 你可能忽略的 .mvn：Maven 本地化配置的秘密与坑点解析](https://blog.dong4j.site/posts/360b54dd.html)
+- [🧪 Maven Profiles 的使用场景案例分享](https://blog.dong4j.site/posts/816be5f6.html)
+- [🚀 从注册到发布：Maven 中央仓库上传 jar 实践](https://blog.dong4j.site/posts/9cf47c71.html)
+- [🎉 用 Zeka Stack 打造可维护、高效开发的工程骨架](https://blog.dong4j.site/posts/d60d56e9.html)
+- [💥 从零构建脚手架：Zeka.Stack 设计理念、解决痛点与亮点特性](https://blog.dong4j.site/posts/315cc6cb.html)
 <!-- BLOG-POST-LIST:END -->
 
 
