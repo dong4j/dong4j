@@ -91,12 +91,12 @@ const dong4j = {
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring AI 入门教程：构建你的第一个 Spring AI 应用](https://blog.dong4j.site/posts/b14dae12.html)
 - [在 Docker 中部署 PostgresML 实现数据库内机器学习](https://blog.dong4j.site/posts/6d02c484.html)
 - [🧩 如何用多层 parent 管理 Maven 项目依赖](https://blog.dong4j.site/posts/31a4f5f8.html)
 - [🧨 你可能忽略的 .mvn：Maven 本地化配置的秘密与坑点解析](https://blog.dong4j.site/posts/360b54dd.html)
 - [🧪 Maven Profiles 的使用场景案例分享](https://blog.dong4j.site/posts/816be5f6.html)
 - [🚀 从注册到发布：Maven 中央仓库上传 jar 实践](https://blog.dong4j.site/posts/9cf47c71.html)
-- [🎉 用 Zeka Stack 打造可维护、高效开发的工程骨架](https://blog.dong4j.site/posts/d60d56e9.html)
 <!-- BLOG-POST-LIST:END -->
 
 
