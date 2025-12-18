@@ -91,12 +91,12 @@ const dong4j = {
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [架构设计：如何在 IntelliAI Engine 中优雅集成非标准协议的 AI 服务](https://blog.dong4j.site/posts/ac128f9e.html)
+- [IntelliJ IDEA 插件开发：Markdown 图片粘贴拦截失效问题排查与解决](https://blog.dong4j.site/posts/7b5d4b87.html)
 - [你今天挖矿了吗？反正我「被挖」了](https://blog.dong4j.site/posts/75e2581e.html)
 - [从单一插件到平台化架构：IntelliAI Engine 的设计哲学与实践](https://blog.dong4j.site/posts/cb864259.html)
 - [从混乱到有序：我用 AI 打造了一个智能 Changelog 生成器](https://blog.dong4j.site/posts/2dc4dddf.html)
 - [从重复劳动到智能助手：我为什么要开发一个 JavaDoc 插件](https://blog.dong4j.site/posts/e297e6a2.html)
-- [Spring AI 入门教程：构建你的第一个 Spring AI 应用](https://blog.dong4j.site/posts/b14dae12.html)
-- [在 Docker 中部署 PostgresML 实现数据库内机器学习](https://blog.dong4j.site/posts/6d02c484.html)
 <!-- BLOG-POST-LIST:END -->
 
 
