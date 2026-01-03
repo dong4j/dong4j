@@ -105,17 +105,15 @@ const dong4j = {
   <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C934%20hrs%202%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.31%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.34%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2026
+> 🏆 2 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -123,50 +121,6 @@ const dong4j = {
  > 
 > 🔑 18 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                4287 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-🌆 Daytime                8977 commits        █████████░░░░░░░░░░░░░░░░   34.23 % 
-🌃 Evening                8914 commits        ████████░░░░░░░░░░░░░░░░░   33.99 % 
-🌙 Night                  4046 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   4342 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Tuesday                  4589 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Wednesday                4332 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Thursday                 3363 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Friday                   3560 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Saturday                 2923 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Sunday                   3115 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Java                     34 hrs 50 mins      ████████████░░░░░░░░░░░░░   49.97 % 
-Other                    7 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-Markdown                 6 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-XML                      5 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-HTML                     2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-
-🔥 Editors: 
-IntelliJ IDEA            46 hrs 25 mins      █████████████████░░░░░░░░   66.57 % 
-Chrome                   15 hrs 51 mins      ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-iTerm2                   2 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-ChatGPT                  1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-RoyalTSX                 1 hr 14 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-
-💻 Operating System: 
-Mac                      69 hrs 44 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -184,7 +138,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dong4j/dong4j/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 01:34:06 UTC
+ Last Updated on 03/01/2026 01:28:57 UTC
 <!--END_SECTION:waka-->
 
 > **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
