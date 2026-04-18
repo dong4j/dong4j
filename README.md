@@ -91,12 +91,12 @@ const dong4j = {
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [架构设计：如何在 IntelliAI Engine 中优雅集成非标准协议的 AI 服务](https://blog.dong4j.site/posts/ac128f9e.html)
-- [IntelliJ IDEA 插件开发：Markdown 图片粘贴拦截失效问题排查与解决](https://blog.dong4j.site/posts/7b5d4b87.html)
-- [你今天挖矿了吗？反正我「被挖」了](https://blog.dong4j.site/posts/75e2581e.html)
-- [从单一插件到平台化架构：IntelliAI Engine 的设计哲学与实践](https://blog.dong4j.site/posts/cb864259.html)
-- [从混乱到有序：我用 AI 打造了一个智能 Changelog 生成器](https://blog.dong4j.site/posts/2dc4dddf.html)
-- [从重复劳动到智能助手：我为什么要开发一个 JavaDoc 插件](https://blog.dong4j.site/posts/e297e6a2.html)
+- [被内存条逼出来的 Homelab：3 台 Mac 撑起 IntelliAI Engine 的免费大模型服务](https://blog.dong4j.site/posts/a36a3945.html)
+- [用一台 Mac mini M2 当博客网关：WireGuard 把分散的服务收编回家](https://blog.dong4j.site/posts/743d90bc.html)
+- [PVE 万兆网卡只跑 1G？一次 ARP Flux 的完整排查记录](https://blog.dong4j.site/posts/7c3465ea.html)
+- [家里十几台服务器的命令历史，被我塞进了一个 hishtory：顺便接上自建 AI 网关](https://blog.dong4j.site/posts/f0f964a3.html)
+- [服务器开机后在 tty1 自动显示 btop：一块小屏幕救一根 HDMI 线的故事](https://blog.dong4j.site/posts/d26035f0.html)
+- [受够了手动配 Samba：一个脚本搞定家里所有 Linux / OpenWrt 的文件共享](https://blog.dong4j.site/posts/476ad31f.html)
 <!-- BLOG-POST-LIST:END -->
 
 
