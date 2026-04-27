@@ -91,12 +91,12 @@ const dong4j = {
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [使用 Skill 优化我的博客发布流程](https://blog.dong4j.site/posts/8accb67a.html)
 - [使用本地 SSH Key 登录 GCP Compute Engine 实例](https://blog.dong4j.site/posts/3ccf3755.html)
 - [被内存条逼出来的 Homelab：3 台 Mac 撑起 IntelliAI Engine 的免费大模型服务](https://blog.dong4j.site/posts/a36a3945.html)
 - [用一台 Mac mini M2 当博客网关：WireGuard 把分散的服务收编回家](https://blog.dong4j.site/posts/743d90bc.html)
 - [PVE 万兆网卡只跑 1G？一次 ARP Flux 的完整排查记录](https://blog.dong4j.site/posts/7c3465ea.html)
 - [家里十几台服务器的命令历史，被我塞进了一个 hishtory：顺便接上自建 AI 网关](https://blog.dong4j.site/posts/f0f964a3.html)
-- [服务器开机后在 tty1 自动显示 btop：一块小屏幕救一根 HDMI 线的故事](https://blog.dong4j.site/posts/d26035f0.html)
 <!-- BLOG-POST-LIST:END -->
 
 
