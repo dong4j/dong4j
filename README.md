@@ -91,12 +91,12 @@ const dong4j = {
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [一次大型业务系统性能优化复盘](https://blog.dong4j.site/posts/c6b4a2f1.html)
+- [验证码安全漏洞——代码审查不会告诉你的那些事](https://blog.dong4j.site/posts/413d8837.html)
+- [全链路加解密：在 HTTPS 之外再套一层](https://blog.dong4j.site/posts/104d3ecb.html)
+- [再见 bootstrap.yml，spring.config.import 时代的配置管理](https://blog.dong4j.site/posts/1029eadc.html)
 - [使用 Skill 优化我的博客发布流程](https://blog.dong4j.site/posts/8accb67a.html)
 - [使用本地 SSH Key 登录 GCP Compute Engine 实例](https://blog.dong4j.site/posts/3ccf3755.html)
-- [被内存条逼出来的 Homelab：3 台 Mac 撑起 IntelliAI Engine 的免费大模型服务](https://blog.dong4j.site/posts/a36a3945.html)
-- [用一台 Mac mini M2 当博客网关：WireGuard 把分散的服务收编回家](https://blog.dong4j.site/posts/743d90bc.html)
-- [PVE 万兆网卡只跑 1G？一次 ARP Flux 的完整排查记录](https://blog.dong4j.site/posts/7c3465ea.html)
-- [家里十几台服务器的命令历史，被我塞进了一个 hishtory：顺便接上自建 AI 网关](https://blog.dong4j.site/posts/f0f964a3.html)
 <!-- BLOG-POST-LIST:END -->
 
 
