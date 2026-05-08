@@ -91,12 +91,12 @@ const dong4j = {
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [我的 AI Native 开发者画像（2026）](https://blog.dong4j.site/posts/6acae9df.html)
 - [屏蔽 YisouSpider 爬虫：避免 CDN 流量被异常消耗](https://blog.dong4j.site/posts/d27b8fff.html)
 - [一次大型业务系统性能优化复盘](https://blog.dong4j.site/posts/c6b4a2f1.html)
 - [验证码安全漏洞——代码审查不会告诉你的那些事](https://blog.dong4j.site/posts/413d8837.html)
 - [全链路加解密：在 HTTPS 之外再套一层](https://blog.dong4j.site/posts/104d3ecb.html)
-- [再见 bootstrap.yml，spring.config.import 时代的配置管理](https://blog.dong4j.site/posts/1029eadc.html)
-- [使用 Skill 优化我的博客发布流程](https://blog.dong4j.site/posts/8accb67a.html)
+- [Zeka Stack 3.0：AI Native 工程平台定位升级](https://blog.dong4j.site/posts/bb2ce470.html)
 <!-- BLOG-POST-LIST:END -->
 
 
