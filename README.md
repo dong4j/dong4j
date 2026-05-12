@@ -91,12 +91,12 @@ const dong4j = {
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [使用 Claude Code：HTML 难以置信的奇效【译】](https://blog.dong4j.site/posts/dotey-2052929093461528903.html)
 - [我的 AI Native 开发者画像（2026）](https://blog.dong4j.site/posts/6acae9df.html)
 - [屏蔽 YisouSpider 爬虫：避免 CDN 流量被异常消耗](https://blog.dong4j.site/posts/d27b8fff.html)
 - [一次大型业务系统性能优化复盘](https://blog.dong4j.site/posts/c6b4a2f1.html)
 - [验证码安全漏洞——代码审查不会告诉你的那些事](https://blog.dong4j.site/posts/413d8837.html)
 - [全链路加解密：在 HTTPS 之外再套一层](https://blog.dong4j.site/posts/104d3ecb.html)
-- [Zeka Stack 3.0：AI Native 工程平台定位升级](https://blog.dong4j.site/posts/bb2ce470.html)
 <!-- BLOG-POST-LIST:END -->
 
 
