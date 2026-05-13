@@ -91,12 +91,12 @@ const dong4j = {
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [统一管理本地 Code Agent 全局规则：从 AGENTS.md 到 Synology Drive 同步](https://blog.dong4j.site/posts/ae16540c.html)
 - [在终端里用 AI 生成 Git 提交记录](https://blog.dong4j.site/posts/terminal-ai-git-commit-message.html)
 - [使用 Claude Code：HTML 难以置信的奇效【译】](https://blog.dong4j.site/posts/dotey-2052929093461528903.html)
 - [我的 AI Native 开发者画像（2026）](https://blog.dong4j.site/posts/6acae9df.html)
 - [屏蔽 YisouSpider 爬虫：避免 CDN 流量被异常消耗](https://blog.dong4j.site/posts/d27b8fff.html)
 - [一次大型业务系统性能优化复盘](https://blog.dong4j.site/posts/c6b4a2f1.html)
-- [验证码安全漏洞——代码审查不会告诉你的那些事](https://blog.dong4j.site/posts/413d8837.html)
 <!-- BLOG-POST-LIST:END -->
 
 
