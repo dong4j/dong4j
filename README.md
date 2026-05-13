@@ -91,12 +91,12 @@ const dong4j = {
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [在终端里用 AI 生成 Git 提交记录](https://blog.dong4j.site/posts/terminal-ai-git-commit-message.html)
 - [使用 Claude Code：HTML 难以置信的奇效【译】](https://blog.dong4j.site/posts/dotey-2052929093461528903.html)
 - [我的 AI Native 开发者画像（2026）](https://blog.dong4j.site/posts/6acae9df.html)
 - [屏蔽 YisouSpider 爬虫：避免 CDN 流量被异常消耗](https://blog.dong4j.site/posts/d27b8fff.html)
 - [一次大型业务系统性能优化复盘](https://blog.dong4j.site/posts/c6b4a2f1.html)
 - [验证码安全漏洞——代码审查不会告诉你的那些事](https://blog.dong4j.site/posts/413d8837.html)
-- [全链路加解密：在 HTTPS 之外再套一层](https://blog.dong4j.site/posts/104d3ecb.html)
 <!-- BLOG-POST-LIST:END -->
 
 
