@@ -91,12 +91,12 @@ const dong4j = {
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hammerspoon 里用 WiFi SSID 做判断的折腾记录](https://blog.dong4j.site/posts/c5e7bb30.html)
+- [打造 SkillsJars Helper：让 AI Agent Skill 在 IDE 中可视化分发与管理的 IDEA 插件](https://blog.dong4j.site/posts/c65a3842.html)
+- [如何让 Gemini CLI 实现多账号无感切换](https://blog.dong4j.site/posts/c1aff3fe.html)
 - [打造 Skill Inspector：一款 AI Agent Skill 的 IDE Linter 插件](https://blog.dong4j.site/posts/ce558ad2.html)
 - [我是怎么做简历助手的：一个关于「AI 工作流」的思考](https://blog.dong4j.site/posts/1f7c6b30.html)
 - [让 Spring Boot Starter 天然支持 AI：Zeka Stack 接入 SkillsJars 的一次探索](https://blog.dong4j.site/posts/6c137a7e.html)
-- [统一管理本地 Code Agent 全局规则：从 AGENTS.md 到 Synology Drive 同步](https://blog.dong4j.site/posts/ae16540c.html)
-- [在终端里用 AI 生成 Git 提交记录](https://blog.dong4j.site/posts/12da83bc.html)
-- [使用 Claude Code：HTML 难以置信的奇效【译】](https://blog.dong4j.site/posts/dotey-2052929093461528903.html)
 <!-- BLOG-POST-LIST:END -->
 
 
