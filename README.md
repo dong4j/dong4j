@@ -105,17 +105,17 @@ const dong4j = {
   <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C052%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C046%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.55%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.80%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
-> 🏆 1,394 Contributions in the Year 2026
+> 🏆 1,441 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -126,21 +126,21 @@ const dong4j = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4872 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-🌆 Daytime                10015 commits       ████████░░░░░░░░░░░░░░░░░   32.57 % 
-🌃 Evening                10448 commits       ████████░░░░░░░░░░░░░░░░░   33.98 % 
-🌙 Night                  5412 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+🌞 Morning                4405 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+🌆 Daytime                9996 commits        ████████░░░░░░░░░░░░░░░░░   32.97 % 
+🌃 Evening                10457 commits       █████████░░░░░░░░░░░░░░░░   34.49 % 
+🌙 Night                  5459 commits        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   5138 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-Tuesday                  5016 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Wednesday                4886 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Thursday                 4535 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Friday                   3970 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Saturday                 3378 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Sunday                   3824 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Monday                   5117 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Tuesday                  4952 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Wednesday                4782 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Thursday                 4462 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Friday                   3901 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Saturday                 3317 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Sunday                   3786 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
 ```
 
 
@@ -184,7 +184,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dong4j/dong4j/main/assets/bar_graph.png)
 
 
- Last Updated on 01/06/2026 05:02:49 UTC
+ Last Updated on 02/06/2026 03:49:10 UTC
 <!--END_SECTION:waka-->
 
 > **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
