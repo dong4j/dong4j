@@ -105,17 +105,17 @@ const dong4j = {
   <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C651%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C656%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39.21%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39.22%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
-> 🏆 4,033 Contributions in the Year 2026
+> 🏆 4,058 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -126,21 +126,21 @@ const dong4j = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                5677 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-🌆 Daytime                12459 commits       ████████░░░░░░░░░░░░░░░░░   33.34 % 
-🌃 Evening                12810 commits       █████████░░░░░░░░░░░░░░░░   34.28 % 
-🌙 Night                  6427 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+🌞 Morning                5680 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+🌆 Daytime                12471 commits       ████████░░░░░░░░░░░░░░░░░   33.35 % 
+🌃 Evening                12819 commits       █████████░░░░░░░░░░░░░░░░   34.28 % 
+🌙 Night                  6428 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   6557 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-Tuesday                  6083 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Wednesday                5852 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Thursday                 5242 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Friday                   4875 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Monday                   6557 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Tuesday                  6083 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Wednesday                5856 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Thursday                 5247 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Friday                   4891 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
 Saturday                 3933 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Sunday                   4831 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Sunday                   4831 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
 ```
 
 
@@ -150,21 +150,21 @@ Sunday                   4831 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Swift                    31 hrs 58 mins      ███████████░░░░░░░░░░░░░░   43.01 % 
-Markdown                 21 hrs 42 mins      ███████░░░░░░░░░░░░░░░░░░   29.20 % 
-Other                    4 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-Bash                     3 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-Go                       2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Swift                    28 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   39.91 % 
+Markdown                 21 hrs 13 mins      ███████░░░░░░░░░░░░░░░░░░   29.98 % 
+Other                    4 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Bash                     3 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Go                       2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 
 🔥 Editors: 
-VS Code                  72 hrs 2 mins       ████████████████████████░   96.91 % 
-Codex CLI                39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-Xcode                    29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-Claude Code              28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-PicList                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+VS Code                  68 hrs 30 mins      ████████████████████████░   96.74 % 
+Codex CLI                39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Xcode                    29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Claude Code              28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+PicList                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 💻 Operating System: 
-Mac                      74 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      70 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -184,7 +184,7 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dong4j/dong4j/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 09:24:04 UTC
+ Last Updated on 25/07/2026 02:36:55 UTC
 <!--END_SECTION:waka-->
 
 > **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
