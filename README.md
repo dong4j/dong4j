@@ -105,7 +105,7 @@ const dong4j = {
   <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C657%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C667%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -150,21 +150,21 @@ Sunday                   4831 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Swift                    28 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   39.91 % 
-Markdown                 21 hrs 13 mins      ███████░░░░░░░░░░░░░░░░░░   29.98 % 
-Other                    4 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-Bash                     3 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-Go                       2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Swift                    22 hrs 41 mins      ████████░░░░░░░░░░░░░░░░░   32.58 % 
+Markdown                 19 hrs 7 mins       ███████░░░░░░░░░░░░░░░░░░   27.45 % 
+Other                    4 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+HTML                     3 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Bash                     3 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 
 🔥 Editors: 
-VS Code                  68 hrs 30 mins      ████████████████████████░   96.74 % 
-Codex CLI                39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-Xcode                    29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Claude Code              28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-PicList                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+VS Code                  67 hrs 41 mins      ████████████████████████░   97.17 % 
+Claude Code              32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Xcode                    29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Chrome                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+PicList                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 💻 Operating System: 
-Mac                      70 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      69 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -184,7 +184,7 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dong4j/dong4j/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 03:33:24 UTC
+ Last Updated on 26/07/2026 02:41:06 UTC
 <!--END_SECTION:waka-->
 
 > **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
