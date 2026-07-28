@@ -111,7 +111,7 @@ const dong4j = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.60%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.13%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -128,21 +128,21 @@ const dong4j = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                5698 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-🌆 Daytime                12545 commits       ████████░░░░░░░░░░░░░░░░░   33.43 % 
-🌃 Evening                12849 commits       █████████░░░░░░░░░░░░░░░░   34.24 % 
-🌙 Night                  6436 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+🌞 Morning                639 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+🌆 Daytime                1999 commits        █████████░░░░░░░░░░░░░░░░   36.16 % 
+🌃 Evening                1895 commits        █████████░░░░░░░░░░░░░░░░   34.28 % 
+🌙 Night                  995 commits         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   6594 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Tuesday                  6110 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Wednesday                5864 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Thursday                 5254 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Friday                   4907 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Saturday                 3946 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-Sunday                   4853 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Monday                   1225 commits        ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+Tuesday                  842 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Wednesday                842 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Thursday                 832 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Friday                   780 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Saturday                 460 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Sunday                   547 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
 ```
 
 
@@ -211,7 +211,7 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dong4j/dong4j/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 03:52:27 UTC
+ Last Updated on 28/07/2026 03:54:48 UTC
 <!--END_SECTION:waka-->
 
 > **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
