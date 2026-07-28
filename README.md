@@ -111,7 +111,7 @@ const dong4j = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.53%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -125,24 +125,24 @@ const dong4j = {
  > 
 > 🔑 21 Private Repositories 
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5683 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-🌆 Daytime                12510 commits       ████████░░░░░░░░░░░░░░░░░   33.40 % 
-🌃 Evening                12825 commits       █████████░░░░░░░░░░░░░░░░   34.25 % 
-🌙 Night                  6432 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   6548 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-Tuesday                  6098 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Wednesday                5854 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Thursday                 5254 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Friday                   4905 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-Saturday                 3946 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Sunday                   4845 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
@@ -194,14 +194,8 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 🚀 High AI Trust — 0.49% of changed lines were hand-edited
 ```
 
-**I Mostly Code in Java** 
-
 ```text
-JavaScript               14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Go                       11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Python                   6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Swift                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-Ruby                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+
 ```
 
 
@@ -211,7 +205,7 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dong4j/dong4j/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 04:51:11 UTC
+ Last Updated on 28/07/2026 04:51:45 UTC
 <!--END_SECTION:waka-->
 
 > **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
