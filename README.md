@@ -105,17 +105,19 @@ const dong4j = {
   <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C675%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C782%20hrs%2032%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-864%20hrs%2056%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.59%20million%20lines%20of%20code-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.60%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
-> 🏆 4,081 Contributions in the Year 2026
+> 🏆 4,090 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -126,21 +128,21 @@ const dong4j = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                5694 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-🌆 Daytime                12538 commits       ████████░░░░░░░░░░░░░░░░░   33.43 % 
-🌃 Evening                12845 commits       █████████░░░░░░░░░░░░░░░░   34.25 % 
-🌙 Night                  6432 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+🌞 Morning                5698 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+🌆 Daytime                12545 commits       ████████░░░░░░░░░░░░░░░░░   33.43 % 
+🌃 Evening                12849 commits       █████████░░░░░░░░░░░░░░░░   34.24 % 
+🌙 Night                  6436 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   6580 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-Tuesday                  6110 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Monday                   6594 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Tuesday                  6110 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
 Wednesday                5864 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Thursday                 5254 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Thursday                 5254 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
 Friday                   4907 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Saturday                 3946 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Sunday                   4848 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Saturday                 3946 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Sunday                   4853 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
 ```
 
 
@@ -150,21 +152,46 @@ Sunday                   4848 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 17 hrs 30 mins      ███████░░░░░░░░░░░░░░░░░░   26.87 % 
-Swift                    16 hrs 19 mins      ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
-Other                    5 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-HTML                     4 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Bash                     3 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Swift                    16 hrs 39 mins      ███████░░░░░░░░░░░░░░░░░░   27.38 % 
+Markdown                 15 hrs 28 mins      ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
+Other                    5 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+HTML                     4 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+TypeScript               2 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 
 🔥 Editors: 
-VS Code                  63 hrs 5 mins       ████████████████████████░   96.83 % 
-Claude Code              32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-Xcode                    29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Chrome                   28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-PicList                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+VS Code                  58 hrs 37 mins      ████████████████████████░   96.33 % 
+Chrome                   46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Xcode                    29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+iTerm2                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Claude Code              18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-Mac                      65 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      60 hrs 51 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 58 hrs 1 min (95.34%)
+
+✍️ 70,551 lines written by AI, 200 lines written by hand (99.72% AI-written)
+
+🔤 1,176,704,907 Input Tokens, 4,013,893 Output Tokens
+
+💵 $5278.14 Estimated AI Cost This Week
+
+🧠 86 AI Sessions, 678 AI Prompts
+
+GPT                      39,087 lines        ██████████████░░░░░░░░░░░   54.37 % 
+Cursor                   28,773 lines        ██████████░░░░░░░░░░░░░░░   40.02 % 
+Deepseek                 4,029 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.72% of written lines came from AI
+📄 Detailed Prompter — average 1,355 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -184,7 +211,7 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dong4j/dong4j/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 02:50:58 UTC
+ Last Updated on 28/07/2026 02:27:45 UTC
 <!--END_SECTION:waka-->
 
 > **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
