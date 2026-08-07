@@ -125,6 +125,76 @@ const dong4j = {
  > 
 > 🔑 21 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                5599 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+🌆 Daytime                12397 commits       ████████░░░░░░░░░░░░░░░░░   33.23 % 
+🌃 Evening                12649 commits       ████████░░░░░░░░░░░░░░░░░   33.90 % 
+🌙 Night                  6664 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   6640 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+Tuesday                  6053 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Wednesday                6084 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Thursday                 5427 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Friday                   4727 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Saturday                 3777 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Sunday                   4601 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 20 hrs 7 mins       █████████░░░░░░░░░░░░░░░░   34.85 % 
+Swift                    13 hrs 13 mins      ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+Other                    3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Java                     3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Text                     2 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+
+🔥 Editors: 
+VS Code                  43 hrs 54 mins      ███████████████████░░░░░░   76.06 % 
+Cursor                   9 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+IntelliJ IDEA            3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+iTerm2                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Notes                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+
+💻 Operating System: 
+Mac                      57 hrs 44 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 54 hrs 49 mins (94.95%)
+
+✍️ 190,245 lines written by AI, 610 lines written by hand (99.68% AI-written)
+
+🔤 848,819,709 Input Tokens, 2,694,704 Output Tokens
+
+💵 $4258.36 Estimated AI Cost This Week
+
+🧠 54 AI Sessions, 484 AI Prompts
+
+Cursor                   138,269 lines       ██████████████████░░░░░░░   70.82 % 
+GPT                      47,211 lines        ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
+Grok                     8,461 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Deepseek                 1,289 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.68% of written lines came from AI
+📄 Detailed Prompter — average 571 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.43% of changed lines were hand-edited
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -142,7 +212,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dong4j/dong4j/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 16:25:15 UTC
+ Last Updated on 07/08/2026 16:36:32 UTC
 <!--END_SECTION:waka-->
 
 > **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
