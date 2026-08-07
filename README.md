@@ -105,9 +105,9 @@ const dong4j = {
   <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C875%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C878%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-960%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-964%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -125,76 +125,6 @@ const dong4j = {
  > 
 > 🔑 21 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                5599 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-🌆 Daytime                12397 commits       ████████░░░░░░░░░░░░░░░░░   33.23 % 
-🌃 Evening                12649 commits       ████████░░░░░░░░░░░░░░░░░   33.90 % 
-🌙 Night                  6664 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   6640 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Tuesday                  6053 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Wednesday                6084 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Thursday                 5427 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Friday                   4727 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Saturday                 3777 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Sunday                   4601 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 20 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   34.32 % 
-Swift                    15 hrs 21 mins      ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-Java                     3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-Other                    3 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-Text                     3 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-
-🔥 Editors: 
-VS Code                  45 hrs 30 mins      ███████████████████░░░░░░   77.29 % 
-Cursor                   9 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-IntelliJ IDEA            3 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-iTerm2                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Notes                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-
-💻 Operating System: 
-Mac                      58 hrs 52 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 56 hrs 3 mins (95.22%)
-
-✍️ 124,857 lines written by AI, 602 lines written by hand (99.52% AI-written)
-
-🔤 857,537,617 Input Tokens, 2,758,921 Output Tokens
-
-💵 $4334.37 Estimated AI Cost This Week
-
-🧠 56 AI Sessions, 506 AI Prompts
-
-Cursor                   68,851 lines        █████████████░░░░░░░░░░░░   53.69 % 
-GPT                      48,854 lines        ██████████░░░░░░░░░░░░░░░   38.10 % 
-Grok                     8,197 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Deepseek                 2,337 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.52% of written lines came from AI
-📄 Detailed Prompter — average 508 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.65% of changed lines were hand-edited
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -212,7 +142,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dong4j/dong4j/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 16:14:03 UTC
+ Last Updated on 07/08/2026 16:25:15 UTC
 <!--END_SECTION:waka-->
 
 > **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
