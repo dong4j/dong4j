@@ -91,12 +91,12 @@ const dong4j = {
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [我的升降桌改造：破解原厂面板，接入多种控制方式](https://blog.dong4j.site/posts/ac53c3d3.html)
 - [我为 GitHub 重度使用者做了一款 macOS 原生应用](https://blog.dong4j.site/posts/37f07b70.html)
 - [Hammerspoon 里用 WiFi SSID 做判断的折腾记录](https://blog.dong4j.site/posts/c5e7bb30.html)
 - [打造 SkillsJars Helper：让 AI Agent Skill 在 IDE 中可视化分发与管理的 IDEA 插件](https://blog.dong4j.site/posts/c65a3842.html)
 - [如何让 Gemini CLI 实现多账号无感切换](https://blog.dong4j.site/posts/c1aff3fe.html)
 - [打造 Skill Inspector：一款 AI Agent Skill 的 IDE Linter 插件](https://blog.dong4j.site/posts/ce558ad2.html)
-- [我是怎么做简历助手的：一个关于「AI 工作流」的思考](https://blog.dong4j.site/posts/1f7c6b30.html)
 <!-- BLOG-POST-LIST:END -->
 
 
