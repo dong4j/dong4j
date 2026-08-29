@@ -111,7 +111,7 @@ const dong4j = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45.73%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.59%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -128,21 +128,21 @@ const dong4j = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                5865 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-🌆 Daytime                13117 commits       ████████░░░░░░░░░░░░░░░░░   32.60 % 
-🌃 Evening                13672 commits       ████████░░░░░░░░░░░░░░░░░   33.98 % 
-🌙 Night                  7587 commits        █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+🌞 Morning                1072 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+🌆 Daytime                3320 commits        ████████░░░░░░░░░░░░░░░░░   30.76 % 
+🌃 Evening                3719 commits        █████████░░░░░░░░░░░░░░░░   34.46 % 
+🌙 Night                  2681 commits        ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   7022 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Tuesday                  6363 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Wednesday                6674 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Thursday                 5927 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Friday                   5155 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Saturday                 4256 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-Sunday                   4844 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Monday                   2064 commits        █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+Tuesday                  1409 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Wednesday                1915 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Thursday                 1707 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+Friday                   1290 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Saturday                 1169 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Sunday                   1238 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
 ```
 
 
@@ -212,7 +212,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dong4j/dong4j/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 09:02:28 UTC
+ Last Updated on 29/08/2026 09:06:54 UTC
 <!--END_SECTION:waka-->
 
 > **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
