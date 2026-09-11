@@ -105,9 +105,9 @@ const dong4j = {
   <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C153%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C157%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C244%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C247%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -152,44 +152,45 @@ Sunday                   4996 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Swift                    32 hrs 5 mins       ████████████████░░░░░░░░░   63.74 % 
-Markdown                 7 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Bash                     2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-Text                     2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Python                   1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Swift                    31 hrs 29 mins      ████████████████░░░░░░░░░   63.57 % 
+Markdown                 7 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Bash                     2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Text                     2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Python                   1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 39 mins      █████████████░░░░░░░░░░░░   52.97 % 
-Codex Vscode             23 hrs 6 mins       ███████████░░░░░░░░░░░░░░   45.91 % 
-Agent                    29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+VS Code                  25 hrs 32 mins      █████████████░░░░░░░░░░░░   51.53 % 
+Codex Vscode             23 hrs 6 mins       ████████████░░░░░░░░░░░░░   46.64 % 
+Agent                    26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Chrome                   23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Mac                      50 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      49 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 50 hrs 9 mins (99.64%)
+⏱ AI Coding Time: 48 hrs 58 mins (98.83%)
 
-✍️ 29,120 lines written by AI, 4 lines written by hand (99.99% AI-written)
+✍️ 30,322 lines written by AI, 4 lines written by hand (99.99% AI-written)
 
-🔤 73,388,935 Input Tokens, 7,599,710 Output Tokens
+🔤 75,978,172 Input Tokens, 7,592,781 Output Tokens
 
-💵 $1852.49 Estimated AI Cost This Week
+💵 $1836.99 Estimated AI Cost This Week
 
-🧠 151 AI Sessions, 649 AI Prompts
+🧠 139 AI Sessions, 597 AI Prompts
 
-GPT                      21,481 lines        █████████████████░░░░░░░░   68.24 % 
-Cursor                   5,254 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Deepseek                 2,515 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-Codex-Vscode             2,227 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+GPT                      21,481 lines        ████████████████░░░░░░░░░   65.66 % 
+Codex-Vscode             5,906 lines         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Cursor                   3,720 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Deepseek                 1,607 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 32,558 characters per prompt
+📚 Verbose Prompter — average 35,323 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
@@ -211,7 +212,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dong4j/dong4j/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 03:11:16 UTC
+ Last Updated on 11/09/2026 03:10:34 UTC
 <!--END_SECTION:waka-->
 
 > **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
