@@ -152,47 +152,46 @@ Sunday                   5076 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Swift                    17 hrs 46 mins      ██████████░░░░░░░░░░░░░░░   38.68 % 
-Markdown                 14 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   31.61 % 
-Text                     2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-JSON                     2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-Makefile                 2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Markdown                 12 hrs 7 mins       █████████░░░░░░░░░░░░░░░░   36.04 % 
+Swift                    9 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   28.14 % 
+JSON                     2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Makefile                 2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Text                     2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 58 mins      ███████████████░░░░░░░░░░   58.71 % 
-Cursor                   9 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Codex Vscode             5 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Agent                    3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-IntelliJ IDEA            14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+VS Code                  22 hrs 44 mins      █████████████████░░░░░░░░   67.60 % 
+Cursor                   7 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
+Agent                    3 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Mac                      45 hrs 56 mins      █████████████████████████   100.00 % 
+Mac                      33 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 44 hrs 9 mins (96.14%)
+⏱ AI Coding Time: 32 hrs 29 mins (96.55%)
 
-✍️ 33,007 lines written by AI, 93 lines written by hand (99.72% AI-written)
+✍️ 25,662 lines written by AI, 31 lines written by hand (99.88% AI-written)
 
-🔤 553,557,915 Input Tokens, 20,495,703 Output Tokens
+🔤 446,189,780 Input Tokens, 17,092,318 Output Tokens
 
-💵 $3499.97 Estimated AI Cost This Week
+💵 $2720.78 Estimated AI Cost This Week
 
-🧠 256 AI Sessions, 418 AI Prompts
+🧠 219 AI Sessions, 304 AI Prompts
 
-Cursor                   20,558 lines        ███████████████░░░░░░░░░░   59.50 % 
-Grok                     9,438 lines         ███████░░░░░░░░░░░░░░░░░░   27.32 % 
-GPT                      4,553 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Cursor                   19,179 lines        ██████████████████░░░░░░░   73.39 % 
+Grok                     6,954 lines         ███████░░░░░░░░░░░░░░░░░░   26.61 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.72% of written lines came from AI
-📚 Verbose Prompter — average 168,120 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.97% of changed lines were hand-edited
+🤖 AI-Driven — 99.88% of written lines came from AI
+📚 Verbose Prompter — average 201,058 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -212,7 +211,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dong4j/dong4j/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 03:31:49 UTC
+ Last Updated on 21/09/2026 03:29:54 UTC
 <!--END_SECTION:waka-->
 
 > **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
