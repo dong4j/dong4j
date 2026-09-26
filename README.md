@@ -152,47 +152,47 @@ Sunday                   5090 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    10 hrs 16 mins      ███████████░░░░░░░░░░░░░░   44.79 % 
-Swift                    6 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   26.40 % 
-Markdown                 2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Go                       1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-Makefile                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Other                    8 hrs 44 mins       ████████████░░░░░░░░░░░░░   48.67 % 
+Swift                    4 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+Markdown                 1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Go                       1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 19 mins      ███████████████░░░░░░░░░░   58.11 % 
-Codex Vscode             7 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   32.71 % 
-Claude Code              54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Agent                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-Cursor                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+VS Code                  9 hrs 25 mins       █████████████░░░░░░░░░░░░   52.56 % 
+Codex Vscode             7 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   41.81 % 
+Claude Code              54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Mac                      22 hrs 56 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 44 mins (90.42%)
+⏱ AI Coding Time: 15 hrs 55 mins (88.77%)
 
-✍️ 5,127 lines written by AI, 108 lines written by hand (97.94% AI-written)
+✍️ 3,483 lines written by AI, 108 lines written by hand (96.99% AI-written)
 
-🔤 114,900,129 Input Tokens, 4,209,458 Output Tokens
+🔤 51,804,733 Input Tokens, 1,266,350 Output Tokens
 
-💵 $771.70 Estimated AI Cost This Week
+💵 $389.01 Estimated AI Cost This Week
 
-🧠 92 AI Sessions, 147 AI Prompts
+🧠 50 AI Sessions, 102 AI Prompts
 
-GPT                      3,182 lines         ███████████████░░░░░░░░░░   58.83 % 
-Cursor                   1,481 lines         ███████░░░░░░░░░░░░░░░░░░   27.38 % 
-Grok                     653 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Deepseek                 93 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+GPT                      3,182 lines         █████████████████████░░░░   84.79 % 
+Grok                     376 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Cursor                   102 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Deepseek                 93 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.94% of written lines came from AI
-📚 Verbose Prompter — average 86,647 characters per prompt
+🤖 AI-Driven — 96.99% of written lines came from AI
+📚 Verbose Prompter — average 23,535 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 2.59% of changed lines were hand-edited
+🚀 High AI Trust — 3.7% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -212,7 +212,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dong4j/dong4j/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 03:36:22 UTC
+ Last Updated on 26/09/2026 03:40:09 UTC
 <!--END_SECTION:waka-->
 
 > **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
