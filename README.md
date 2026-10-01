@@ -105,9 +105,9 @@ const dong4j = {
   <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C225%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C227%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C321%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C324%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -152,47 +152,47 @@ Sunday                   5090 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    9 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   41.25 % 
-Markdown                 6 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   30.00 % 
-Swift                    2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Fork                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Bash                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Markdown                 7 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   31.78 % 
+Other                    6 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.00 % 
+Swift                    2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+TypeScript               1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Java                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 🔥 Editors: 
-Chrome                   7 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   32.14 % 
-VS Code                  6 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   26.50 % 
-Codex Vscode             5 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
-Claude Code              1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-iTerm2                   1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Codex Vscode             7 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   34.52 % 
+Chrome                   7 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   33.71 % 
+VS Code                  2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+iTerm2                   1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Claude Code              1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 
 💻 Operating System: 
-Mac                      23 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 48 mins (55.08%)
+⏱ AI Coding Time: 12 hrs 29 mins (56.35%)
 
-✍️ 4,951 lines written by AI, 117 lines written by hand (97.69% AI-written)
+✍️ 7,455 lines written by AI, 80 lines written by hand (98.94% AI-written)
 
-🔤 23,163,676 Input Tokens, 893,081 Output Tokens
+🔤 5,861,803 Input Tokens, 995,852 Output Tokens
 
-💵 $250.48 Estimated AI Cost This Week
+💵 $247.47 Estimated AI Cost This Week
 
-🧠 59 AI Sessions, 137 AI Prompts
+🧠 56 AI Sessions, 124 AI Prompts
 
-ZCode                    3,094 lines         ███████████████░░░░░░░░░░   61.49 % 
-GPT                      1,469 lines         ███████░░░░░░░░░░░░░░░░░░   29.19 % 
-Grok                     376 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Deepseek                 93 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+GPT                      4,025 lines         █████████████░░░░░░░░░░░░   53.68 % 
+ZCode                    3,094 lines         ██████████░░░░░░░░░░░░░░░   41.26 % 
+Grok                     376 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Deepseek                 3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.69% of written lines came from AI
-📚 Verbose Prompter — average 7,996 characters per prompt
+🤖 AI-Driven — 98.94% of written lines came from AI
+📚 Verbose Prompter — average 8,576 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 3.01% of changed lines were hand-edited
+🚀 High AI Trust — 1.43% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -212,7 +212,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dong4j/dong4j/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 04:10:24 UTC
+ Last Updated on 01/10/2026 04:18:14 UTC
 <!--END_SECTION:waka-->
 
 > **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
